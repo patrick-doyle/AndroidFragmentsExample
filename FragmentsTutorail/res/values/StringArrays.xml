@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ElementsArray">       
+        <item>Hydrogen</item>
+		<item>Helium</item>
+		<item>Lithium</item>
+		<item>Beryllium</item>
+		<item>Boron</item>
+		<item>Carbon</item>
+		<item>Nitrogen</item>
+		<item>Oxygen</item>
+		<item>Fluorine</item>
+		<item>Neon</item>
+		<item>Sodium</item>
+		<item>Magnesium</item>
+		<item>Aluminum</item>
+		<item>Silicon</item>
+		<item>Phosphorus</item>
+		<item>Sulfur</item>
+		<item>Chlorine</item>
+		<item>Argon</item>
+		<item>Potassium</item>
+		<item>Calcium</item>
+		<item>Scandium</item>
+		<item>Titanium</item>
+		<item>Vanadium</item>
+		<item>Chromium</item>
+		<item>Manganese</item>
+		<item>Iron</item>
+		<item>Cobalt</item>
+		<item>Nickel</item>
+		<item>Copper</item>
+		<item>Zinc</item>
+		<item>Gallium</item>
+		<item>Germanium</item>
+		<item>Arsenic</item>
+		<item>Selenium</item>
+		<item>Bromine</item>
+		<item>Krypton</item>
+		<item>Rubidium</item>
+		<item>Strontium</item>
+		<item>Yttrium</item>
+		<item>Zirconium</item>
+		<item>Niobium</item>
+		<item>Molybdenum</item>
+		<item>Technetium</item>
+		<item>Ruthenium</item>
+		<item>Rhodium</item>
+		<item>Palladium</item>
+		<item>Silver</item>
+		<item>Cadmium</item>
+		<item>Indium</item>
+		<item>Tin</item>
+		<item>Antimony</item>
+		<item>Tellurium</item>
+		<item>Iodine</item>
+		<item>Xenon</item>
+		<item>Cesium</item>
+		<item>Barium</item>
+		<item>Lanthanum</item>
+		<item>Cerium</item>
+		<item>Praseodymium</item>
+		<item>Neodymium</item>
+		<item>Promethium</item>
+		<item>Samarium</item>
+		<item>Europium</item>
+		<item>Gadolinium</item>
+		<item>Terbium</item>
+		<item>Dysprosium</item>
+		<item>Holmium</item>
+		<item>Erbium</item>
+		<item>Thulium</item>
+		<item>Ytterbium</item>
+		<item>Lutetium</item>
+		<item>Hafnium</item>
+		<item>Tantalum</item>
+		<item>Tungsten</item>
+		<item>Rhenium</item>
+		<item>Osmium</item>
+		<item>Iridium</item>
+		<item>Platinum</item>
+		<item>Gold</item>
+		<item>Mercury</item>
+		<item>Thallium</item>
+		<item>Lead</item>
+		<item>Bismuth</item>
+		<item>Polonium</item>
+		<item>Astatine</item>
+		<item>Radon</item>
+		<item>Francium</item>
+		<item>Radium</item>
+		<item>Actinium</item>
+		<item>Thorium</item>
+		<item>Protactinium</item>
+		<item>Uranium</item>
+		<item>Neptunium</item>
+		<item>Plutonium</item>
+		<item>Americium</item>
+		<item>Curium</item>
+		<item>Berkelium</item>
+		<item>Californium</item>
+		<item>Einsteinium</item>
+		<item>Fermium</item>
+		<item>Mendelevium</item>
+		<item>Nobelium</item>
+		<item>Lawrencium</item>
+		<item>Rutherfordium</item>
+		<item>Dubnium</item>
+		<item>Seaborgium</item>
+		<item>Bohrium</item>
+		<item>Hassium</item>
+		<item>Meitnerium</item>
+		<item>Darmstadtium</item>
+		<item>Roentgenium</item>
+		<item>Ununbium</item>
+		<item>Ununtrium</item>
+		<item>Ununquadium</item>
+		<item>Ununpentium</item>
+		<item>Ununhexium</item>
+		<item>Ununseptium</item>
+		<item>Ununoctium</item>   
+    </string-array>
+    
+    <string-array name="ElementsInfoArray">
+        
+        <item>1 \n1.0079 \nHydrogen \nH \n-259 \n-253 \n0.09 \n0.14 \n1776 \n1 \n1s1 \n13.5984 \n2,2</item>
+<item>2 \n4.0026 \nHelium \nHe \n-272 \n-269 \n0.18 \nn/a \n1895 \n18 \n1s2 \n24.5874 \nn/a</item>
+<item>3 \n6.941 \nLithium \nLi \n180 \n1347 \n0.53 \nn/a \n1817 \n1 \n[He] 2s1 \n5.3917 \n0,98</item>
+<item>4 \n9.0122 \nBeryllium \nBe \n1278 \n2970 \n1.85 \nn/a \n1797 \n2 \n[He] 2s2 \n9.3227 \n1,57</item>
+<item>5 \n10.811 \nBoron \nB \n2300 \n2550 \n2.34 \nn/a \n1808 \n13 \n[He] 2s2 2p1 \n8.298 \n2,04</item>
+<item>6 \n12.0107 \nCarbon \nC \n3500 \n4827 \n2.26 \n0.094 \n ancient \n14 \n[He] 2s2 2p2 \n11.2603 \n2,55</item>
+<item>7 \n14.0067 \nNitrogen \nN \n-210 \n-196 \n1.25 \nn/a \n1772 \n15 \n[He] 2s2 2p3 \n14.5341 \n3,04</item>
+<item>8 \n15.9994 \nOxygen \nO \n-218 \n-183 \n1.43 \n46.71 \n1774 \n16 \n[He] 2s2 2p4 \n13.6181 \n3,44</item>
+<item>9 \n18.9984 \nFluorine \nF \n-220 \n-188 \n1.7 \n0.029 \n1886 \n17 \n[He] 2s2 2p5 \n17.4228 \n3,98</item>
+<item>10 \n20.1797 \nNeon \nNe \n-249 \n-246 \n0.9 \nn/a \n1898 \n18 \n[He] 2s2 2p6 \n21.5645 \nn/a</item>
+<item>11 \n22.9897 \nSodium \nNa \n98 \n883 \n0.97 \n2.75 \n1807 \n1 \n[Ne] 3s1 \n5.1391 \n0,93</item>
+<item>12 \n24.305 \nMagnesium \nMg \n639 \n1090 \n1.74 \n2.08 \n1755 \n2 \n[Ne] 3s2 \n7.6462 \n1,31</item>
+<item>13 \n26.9815 \nAluminum \nAl \n660 \n2467 \n2.7 \n8.07 \n1825 \n13 \n[Ne] 3s2 3p1 \n5.9858 \n1,61</item>
+<item>14 \n28.0855 \nSilicon \nSi \n1410 \n2355 \n2.33 \n27.69 \n1824 \n14 \n[Ne] 3s2 3p2 \n8.1517 \n1,9</item>
+<item>15 \n30.9738 \nPhosphorus \nP \n44 \n280 \n1.82 \n0.13 \n1669 \n15 \n[Ne] 3s2 3p3 \n10.4867 \n2,19</item>
+<item>16 \n32.065 \nSulfur \nS \n113 \n445 \n2.07 \n0.052 \n ancient \n16 \n[Ne] 3s2 3p4 \n10.36 \n2,58</item>
+<item>17 \n35.453 \nChlorine \nCl \n-101 \n-35 \n3.21 \n0.045 \n1774 \n17 \n[Ne] 3s2 3p5 \n12.9676 \n3,16</item>
+<item>18 \n39.948 \nArgon \nAr \n-189 \n-186 \n1.78 \nn/a \n1894 \n18 \n[Ne] 3s2 3p6 \n15.7596 \nn/a</item>
+<item>19 \n39.0983 \nPotassium \nK \n64 \n774 \n0.86 \n2.58 \n1807 \n1 \n[Ar] 4s1 \n4.3407 \n0,82</item>
+<item>20 \n40.078 \nCalcium \nCa \n839 \n1484 \n1.55 \n3.65 \n1808 \n2 \n[Ar] 4s2 \n6.1132 \n1</item>
+<item>21 \n44.9559 \nScandium \nSc \n1539 \n2832 \n2.99 \nn/a \n1879 \n3 \n[Ar] 3d1 4s2 \n6.5615 \n1,36</item>
+<item>22 \n47.867 \nTitanium \nTi \n1660 \n3287 \n4.54 \n0.62 \n1791 \n4 \n[Ar] 3d2 4s2 \n6.8281 \n1,54</item>
+<item>23 \n50.9415 \nVanadium \nV \n1890 \n3380 \n6.11 \nn/a \n1830 \n5 \n[Ar] 3d3 4s2 \n6.7462 \n1,63</item>
+<item>24 \n51.9961 \nChromium \nCr \n1857 \n2672 \n7.19 \n0.035 \n1797 \n6 \n[Ar] 3d5 4s1 \n6.7665 \n1,66</item>
+<item>25 \n54.938 \nManganese \nMn \n1245 \n1962 \n7.43 \n0.09 \n1774 \n7 \n[Ar] 3d5 4s2 \n7.434 \n1,55</item>
+<item>26 \n55.845 \nIron \nFe \n1535 \n2750 \n7.87 \n5.05 \n ancient \n8 \n[Ar] 3d6 4s2 \n7.9024 \n1,83</item>
+<item>27 \n58.9332 \nCobalt \nCo \n1495 \n2870 \n8.9 \nn/a \n1735 \n9 \n[Ar] 3d7 4s2 \n7.881 \n1,88</item>
+<item>28 \n58.6934 \nNickel \nNi \n1453 \n2732 \n8.9 \n0.019 \n1751 \n10 \n[Ar] 3d8 4s2 \n7.6398 \n1,91</item>
+<item>29 \n63.546 \nCopper \nCu \n1083 \n2567 \n8.96 \nn/a \n ancient \n11 \n[Ar] 3d10 4s1 \n7.7264 \n1,9</item>
+<item>30 \n65.39 \nZinc \nZn \n420 \n907 \n7.13 \nn/a \n ancient \n12 \n[Ar] 3d10 4s2 \n9.3942 \n1,65</item>
+<item>31 \n69.723 \nGallium \nGa \n30 \n2403 \n5.91 \nn/a \n1875 \n13 \n[Ar] 3d10 4s2 4p1 \n5.9993 \n1,81</item>
+<item>32 \n72.64 \nGermanium \nGe \n937 \n2830 \n5.32 \nn/a \n1886 \n14 \n[Ar] 3d10 4s2 4p2 \n7.8994 \n2,01</item>
+<item>33 \n74.9216 \nArsenic \nAs \n81 \n613 \n5.72 \nn/a \n ancient \n15 \n[Ar] 3d10 4s2 4p3 \n9.7886 \n2,18</item>
+<item>34 \n78.96 \nSelenium \nSe \n217 \n685 \n4.79 \nn/a \n1817 \n16 \n[Ar] 3d10 4s2 4p4 \n9.7524 \n2,55</item>
+<item>35 \n79.904 \nBromine \nBr \n-7 \n59 \n3.12 \nn/a \n1826 \n17 \n[Ar] 3d10 4s2 4p5 \n11.8138 \n2,96</item>
+<item>36 \n83.8 \nKrypton \nKr \n-157 \n-153 \n3.75 \nn/a \n1898 \n18 \n[Ar] 3d10 4s2 4p6 \n13.9996 \nn/a</item>
+<item>37 \n85.4678 \nRubidium \nRb \n39 \n688 \n1.63 \nn/a \n1861 \n1 \n[Kr] 5s1 \n4.1771 \n0,82</item>
+<item>38 \n87.62 \nStrontium \nSr \n769 \n1384 \n2.54 \nn/a \n1790 \n2 \n[Kr] 5s2 \n5.6949 \n0,95</item>
+<item>39 \n88.9059 \nYttrium \nY \n1523 \n3337 \n4.47 \nn/a \n1794 \n3 \n[Kr] 4d1 5s2 \n6.2173 \n1,22</item>
+<item>40 \n91.224 \nZirconium \nZr \n1852 \n4377 \n6.51 \n0.025 \n1789 \n4 \n[Kr] 4d2 5s2 \n6.6339 \n1,33</item>
+<item>41 \n92.9064 \nNiobium \nNb \n2468 \n4927 \n8.57 \nn/a \n1801 \n5 \n[Kr] 4d4 5s1 \n6.7589 \n1,6</item>
+<item>42 \n95.94 \nMolybdenum \nMo \n2617 \n4612 \n10.22 \nn/a \n1781 \n6 \n[Kr] 4d5 5s1 \n7.0924 \n2,16</item>
+<item>43 \n98 \nTechnetium \nTc \n2200 \n4877 \n11.5 \nn/a \n1937 \n7 \n[Kr] 4d5 5s2 \n7.28 \n1,9</item>
+<item>44 \n101.07 \nRuthenium \nRu \n2250 \n3900 \n12.37 \nn/a \n1844 \n8 \n[Kr] 4d7 5s1 \n7.3605 \n2,2</item>
+<item>45 \n102.9055 \nRhodium \nRh \n1966 \n3727 \n12.41 \nn/a \n1803 \n9 \n[Kr] 4d8 5s1 \n7.4589 \n2,28</item>
+<item>46 \n106.42 \nPalladium \nPd \n1552 \n2927 \n12.02 \nn/a \n1803 \n10 \n[Kr] 4d10 \n8.3369 \n2,2</item>
+<item>47 \n107.8682 \nSilver \nAg \n962 \n2212 \n10.5 \nn/a \n ancient \n11 \n[Kr] 4d10 5s1 \n7.5762 \n1,93</item>
+<item>48 \n112.411 \nCadmium \nCd \n321 \n765 \n8.65 \nn/a \n1817 \n12 \n[Kr] 4d10 5s2 \n8.9938 \n1,69</item>
+<item>49 \n114.818 \nIndium \nIn \n157 \n2000 \n7.31 \nn/a \n1863 \n13 \n[Kr] 4d10 5s2 5p1 \n5.7864 \n1,78</item>
+<item>50 \n118.71 \nTin \nSn \n232 \n2270 \n7.31 \nn/a \n ancient \n14 \n[Kr] 4d10 5s2 5p2 \n7.3439 \n1,96</item>
+<item>51 \n121.76 \nAntimony \nSb \n630 \n1750 \n6.68 \nn/a \n ancient \n15 \n[Kr] 4d10 5s2 5p3 \n8.6084 \n2,05</item>
+<item>52 \n127.6 \nTellurium \nTe \n449 \n990 \n6.24 \nn/a \n1783 \n16 \n[Kr] 4d10 5s2 5p4 \n9.0096 \n2,1</item>
+<item>53 \n126.9045 \nIodine \nI \n114 \n184 \n4.93 \nn/a \n1811 \n17 \n[Kr] 4d10 5s2 5p5 \n10.4513 \n2,66</item>
+<item>54 \n131.293 \nXenon \nXe \n-112 \n-108 \n5.9 \nn/a \n1898 \n18 \n[Kr] 4d10 5s2 5p6 \n12.1298 \n2,6</item>
+<item>55 \n132.9055 \nCesium \nCs \n29 \n678 \n1.87 \nn/a \n1860 \n1 \n[Xe] 6s1 \n3.8939 \n0,79</item>
+<item>56 \n137.327 \nBarium \nBa \n725 \n1140 \n3.59 \n0.05 \n1808 \n2 \n[Xe] 6s2 \n5.2117 \n0,89</item>
+<item>57 \n138.9055 \nLanthanum \nLa \n920 \n3469 \n6.15 \nn/a \n1839 \n3 \n[Xe] 5d1 6s2 \n5.5769 \n1,1</item>
+<item>58 \n140.116 \nCerium \nCe \n795 \n3257 \n6.77 \nn/a \n1803 \n101 \n[Xe] 4f1 5d1 6s2 \n5.5387 \n1,12</item>
+<item>59 \n140.9077 \nPraseodymium \nPr \n935 \n3127 \n6.77 \nn/a \n1885 \n101 \n[Xe] 4f3 6s2 \n5.473 \n1,13</item>
+<item>60 \n144.24 \nNeodymium \nNd \n1010 \n3127 \n7.01 \nn/a \n1885 \n101 \n[Xe] 4f4 6s2 \n5.525 \n1,14</item>
+<item>61 \n145 \nPromethium \nPm \n1100 \n3000 \n7.3 \nn/a \n1945 \n101 \n[Xe] 4f5 6s2 \n5.582 \nn/a</item>
+<item>62 \n150.36 \nSamarium \nSm \n1072 \n1900 \n7.52 \nn/a \n1879 \n101 \n[Xe] 4f6 6s2 \n5.6437 \n1,17</item>
+<item>63 \n151.964 \nEuropium \nEu \n822 \n1597 \n5.24 \nn/a \n1901 \n101 \n[Xe] 4f7 6s2 \n5.6704 \nn/a</item>
+<item>64 \n157.25 \nGadolinium \nGd \n1311 \n3233 \n7.9 \nn/a \n1880 \n101 \n[Xe] 4f7 5d1 6s2 \n6.1501 \n1,2</item>
+<item>65 \n158.9253 \nTerbium \nTb \n1360 \n3041 \n8.23 \nn/a \n1843 \n101 \n[Xe] 4f9 6s2 \n5.8638 \nn/a</item>
+<item>66 \n162.5 \nDysprosium \nDy \n1412 \n2562 \n8.55 \nn/a \n1886 \n101 \n[Xe] 4f10 6s2 \n5.9389 \n1,22</item>
+<item>67 \n164.9303 \nHolmium \nHo \n1470 \n2720 \n8.8 \nn/a \n1867 \n101 \n[Xe] 4f11 6s2 \n6.0215 \n1,23</item>
+<item>68 \n167.259 \nErbium \nEr \n1522 \n2510 \n9.07 \nn/a \n1842 \n101 \n[Xe] 4f12 6s2 \n6.1077 \n1,24</item>
+<item>69 \n168.9342 \nThulium \nTm \n1545 \n1727 \n9.32 \nn/a \n1879 \n101 \n[Xe] 4f13 6s2 \n6.1843 \n1,25</item>
+<item>70 \n173.04 \nYtterbium \nYb \n824 \n1466 \n6.9 \nn/a \n1878 \n101 \n[Xe] 4f14 6s2 \n6.2542 \nn/a</item>
+<item>71 \n174.967 \nLutetium \nLu \n1656 \n3315 \n9.84 \nn/a \n1907 \n101 \n[Xe] 4f14 5d1 6s2 \n5.4259 \n1,27</item>
+<item>72 \n178.49 \nHafnium \nHf \n2150 \n5400 \n13.31 \nn/a \n1923 \n4 \n[Xe] 4f14 5d2 6s2 \n6.8251 \n1,3</item>
+<item>73 \n180.9479 \nTantalum \nTa \n2996 \n5425 \n16.65 \nn/a \n1802 \n5 \n[Xe] 4f14 5d3 6s2 \n7.5496 \n1,5</item>
+<item>74 \n183.84 \nTungsten \nW \n3410 \n5660 \n19.35 \nn/a \n1783 \n6 \n[Xe] 4f14 5d4 6s2 \n7.864 \n2,36</item>
+<item>75 \n186.207 \nRhenium \nRe \n3180 \n5627 \n21.04 \nn/a \n1925 \n7 \n[Xe] 4f14 5d5 6s2 \n7.8335 \n1,9</item>
+<item>76 \n190.23 \nOsmium \nOs \n3045 \n5027 \n22.6 \nn/a \n1803 \n8 \n[Xe] 4f14 5d6 6s2 \n8.4382 \n2,2</item>
+<item>77 \n192.217 \nIridium \nIr \n2410 \n4527 \n22.4 \nn/a \n1803 \n9 \n[Xe] 4f14 5d7 6s2 \n8.967 \n2,2</item>
+<item>78 \n195.078 \nPlatinum \nPt \n1772 \n3827 \n21.45 \nn/a \n1735 \n10 \n[Xe] 4f14 5d9 6s1 \n8.9587 \n2,28</item>
+<item>79 \n196.9665 \nGold \nAu \n1064 \n2807 \n19.32 \nn/a \n ancient \n11 \n[Xe] 4f14 5d10 6s1 \n9.2255 \n2,54</item>
+<item>80 \n200.59 \nMercury \nHg \n-39 \n357 \n13.55 \nn/a \n ancient \n12 \n[Xe] 4f14 5d10 6s2 \n10.4375 \n2</item>
+<item>81 \n204.3833 \nThallium \nTl \n303 \n1457 \n11.85 \nn/a \n1861 \n13 \n[Xe] 4f14 5d10 6s2 6p1 \n6.1082 \n1,62</item>
+<item>82 \n207.2 \nLead \nPb \n327 \n1740 \n11.35 \nn/a \n ancient \n14 \n[Xe] 4f14 5d10 6s2 6p2 \n7.4167 \n2,33</item>
+<item>83 \n208.9804 \nBismuth \nBi \n271 \n1560 \n9.75 \nn/a \n ancient \n15 \n[Xe] 4f14 5d10 6s2 6p3 \n7.2856 \n2,02</item>
+<item>84 \n209 \nPolonium \nPo \n254 \n962 \n9.3 \nn/a \n1898 \n16 \n[Xe] 4f14 5d10 6s2 6p4 \n8.417 \n2</item>
+<item>85 \n210 \nAstatine \nAt \n302 \n337 \nn/a \nn/a \n1940 \n17 \n[Xe] 4f14 5d10 6s2 6p5 \n9.3 \n2,2</item>
+<item>86 \n222 \nRadon \nRn \n-71 \n-62 \n9.73 \nn/a \n1900 \n18 \n[Xe] 4f14 5d10 6s2 6p6 \n10.7485 \nn/a</item>
+<item>87 \n223 \nFrancium \nFr \n27 \n677 \nn/a \nn/a \n1939 \n1 \n[Rn] 7s1 \n4.0727 \n0,7</item>
+<item>88 \n226 \nRadium \nRa \n700 \n1737 \n5.5 \nn/a \n1898 \n2 \n[Rn] 7s2 \n5.2784 \n0,89</item>
+<item>89 \n227 \nActinium \nAc \n1050 \n3200 \n10.07 \nn/a \n1899 \n3 \n[Rn] 6d1 7s2 \n5.17 \n1,1</item>
+<item>90 \n232.0381 \nThorium \nTh \n1750 \n4790 \n11.72 \nn/a \n1829 \n102 \n[Rn] 6d2 7s2 \n6.3067 \n1,3</item>
+<item>91 \n231.0359 \nProtactinium \nPa \n1568 \nn/a \n15.4 \nn/a \n1913 \n102 \n[Rn] 5f2 6d1 7s2 \n5.89 \n1,5</item>
+<item>92 \n238.0289 \nUranium \nU \n1132 \n3818 \n18.95 \nn/a \n1789 \n102 \n[Rn] 5f3 6d1 7s2 \n6.1941 \n1,38</item>
+<item>93 \n237 \nNeptunium \nNp \n640 \n3902 \n20.2 \nn/a \n1940 \n102 \n[Rn] 5f4 6d1 7s2 \n6.2657 \n1,36</item>
+<item>94 \n244 \nPlutonium \nPu \n640 \n3235 \n19.84 \nn/a \n1940 \n102 \n[Rn] 5f6 7s2 \n6.0262 \n1,28</item>
+<item>95 \n243 \nAmericium \nAm \n994 \n2607 \n13.67 \nn/a \n1944 \n102 \n[Rn] 5f7 7s2 \n5.9738 \n1,3</item>
+<item>96 \n247 \nCurium \nCm \n1340 \nn/a \n13.5 \nn/a \n1944 \n102 \nn/a \n5.9915 \n1,3</item>
+<item>97 \n247 \nBerkelium \nBk \n986 \nn/a \n14.78 \nn/a \n1949 \n102 \nn/a \n6.1979 \n1,3</item>
+<item>98 \n251 \nCalifornium \nCf \n900 \nn/a \n15.1 \nn/a \n1950 \n102 \nn/a \n6.2817 \n1,3</item>
+<item>99 \n252 \nEinsteinium \nEs \n860 \nn/a \nn/a \nn/a \n1952 \n102 \nn/a \n6.42 \n1,3</item>
+<item>100 \n257 \nFermium \nFm \n1527 \nn/a \nn/a \nn/a \n1952 \n102 \nn/a \n6.5 \n1,3</item>
+<item>101 \n258 \nMendelevium \nMd \nn/a \nn/a \nn/a \nn/a \n1955 \n102 \nn/a \n6.58 \n1,3</item>
+<item>102 \n259 \nNobelium \nNo \n827 \nn/a \nn/a \nn/a \n1958 \n102 \nn/a \n6.65 \n1,3</item>
+<item>103 \n262.1097 \nLawrencium \nLr \nn/a \nn/a \nn/a \nn/a \nn/a \n102 \nn/a \nn/a \nn/a</item>
+<item>104 \n261.1088 \nRutherfordium \nRf \nn/a \nn/a \nn/a \nn/a \nn/a \n4 \nn/a \nn/a \nn/a</item>
+<item>105 \n262 \nDubnium \nDb \nn/a \nn/a \nn/a \nn/a \nn/a \n5 \nn/a \nn/a \nn/a</item>
+<item>106 \n266 \nSeaborgium \nSg \nn/a \nn/a \nn/a \nn/a \nn/a \n6 \nn/a \nn/a \nn/a</item>
+<item>107 \n264 \nBohrium \nBh \nn/a \nn/a \nn/a \nn/a \nn/a \n7 \nn/a \nn/a \nn/a</item>
+<item>108 \n277 \nHassium \nHs \nn/a \nn/a \nn/a \nn/a \nn/a \n8 \nn/a \nn/a \nn/a</item>
+<item>109 \n268 \nMeitnerium \nMt \nn/a \nn/a \nn/a \nn/a \nn/a \n9 \nn/a \nn/a \nn/a</item>
+<item>110 \n271 \nDarmstadtium \nDs \nn/a \nn/a \nn/a \nn/a \nn/a \n10 \nn/a \nn/a \nn/a</item>
+<item>111 \n272 \nRoentgenium \nRg \nn/a \nn/a \nn/a \nn/a \nn/a \n11 \nn/a \nn/a \nn/a</item>
+<item>112 \n285 \nUnunbium \nUub \nn/a \nn/a \nn/a \nn/a \nn/a \n12 \nn/a \nn/a \nn/a</item>
+<item>113 \n284 \nUnuntrium \nUut \nn/a \nn/a \nn/a \nn/a \nn/a \n13 \nn/a \nn/a \nn/a</item>
+<item>114 \n289 \nUnunquadium \nUuq \nn/a \nn/a \nn/a \nn/a \nn/a \n14 \nn/a \nn/a \nn/a</item>
+<item>115 \n288 \nUnunpentium \nUup \nn/a \nn/a \nn/a \nn/a \nn/a \n15 \nn/a \nn/a \nn/a</item>
+<item>116 \n292 \nUnunhexium \nUuh \nn/a \nn/a \nn/a \nn/a \nn/a \n16 \nn/a \nn/a \nn/a</item>
+<item>117 \n- \nUnunseptium \nUus \nn/a \nn/a \nn/a \nn/a \nn/a \n17 \nn/a \nn/a \nn/a</item>
+<item>118 \n294 \nUnunoctium \nUuo \nn/a \nn/a \nn/a \nn/a \nn/a \n18 \nn/a \nn/a \nn/a</item>
+<item> \n \n \n \n \n \n \n \n \n \n \n \n</item>
+        
+    </string-array>
+    
+</resources>
